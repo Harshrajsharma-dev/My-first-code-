@@ -1,2 +1,4 @@
 # My-first-code-
-In this code i am creating a basic calculator using python
+This is my first repository. <br> 
+I have made my first basic calculator using python. <br>
+Author- Harsh raj sharma
